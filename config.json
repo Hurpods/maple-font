@@ -50,7 +50,7 @@
     "cv96": "enable",
     "cv97": "enable",
     "cv98": "enable",
-    "cv99": "enable",
+    "cv99": "ignore",
     "ss01": "ignore",
     "ss02": "ignore",
     "ss03": "enable",
